@@ -61,7 +61,7 @@ The project is compatible with the following operating systems and environments:
 ### Note
 - We provide the pre-trained models and corresponding datasets for the first two scenarios in the closed-world setting, as well as the pre-trained model and data for the first scenario in the open-world setting. 
 - In addition, we also share some of the original traces from the scenario #1 in the closed-world setting. More details about this dataset can be found in Table 1 in the paper.
-- You can download the above datasets and pre-trained models via .
+- You can download the above datasets and pre-trained models via https://zenodo.org/records/16607834.
 
 ### Installation steps:
 1. Download or copy the project files to your local environment.
