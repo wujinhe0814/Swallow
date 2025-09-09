@@ -120,6 +120,7 @@ After completing the execution of `fineTuning.py`, run the above command to conv
 ### Open-World Evaluation (Section 6.3, ~30 minutes)
 ```bash
 python3 fineTuning_open.py
+```
 
 Outputs include raw precision-recall values saved as `.csv` files and a generated figure `open_result.png` in `./results/open/`.  
 If `.csv` results are already present, the script will directly generate the plot.  
