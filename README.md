@@ -156,7 +156,6 @@ python3 fineTuning-AE.py
 The published version and the standard citation format will be updated later.
 ## Contact
 If you have any questions, please get in touch with us.
-* Prof. Meng Shen ([shenmeng@bit.edu.cn](shenmeng@bit.edu.cn))
 * Jinhe Wu ([jinhewu@bit.edu.cn](jikexin@bit.edu.cn))
 * Junyu Ai (aijunyu@bit.edu.cn)
 
