@@ -4,7 +4,7 @@ This repository contains the artifacts for the paper:
 **"Swallow: A Transfer-Robust Website Fingerprinting Attack via Consistent Feature Learning"**
 to appear at CCS 2025.
 
-You can read our paper at `/paper/Swallow.pdf`. The published version will be updated later.
+You can read our paper at `/paper/Swallow.pdf`. The published version: https://dl.acm.org/doi/10.1145/3719027.3744795.
 
 ---
 
