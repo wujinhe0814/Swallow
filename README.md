@@ -156,7 +156,7 @@ python3 fineTuning-AE.py
 The published version and the standard citation format will be updated later.
 ## Contact
 If you have any questions, please get in touch with us.
-* Jinhe Wu ([jinhewu@bit.edu.cn](jikexin@bit.edu.cn))
+
 * Junyu Ai (aijunyu@bit.edu.cn)
 
 More detailed information about the research of Meng Shen Lab can be found here (https://mengshen-office.github.io/).
